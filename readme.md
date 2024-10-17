@@ -16,6 +16,23 @@ This repository contains a collection of C++ programs that demonstrate fundament
 6. [Program 5: Even or Odd Check](#program-5-even-or-odd-check)
    - [Logic Explanation](#logic-explanation-5)
 
+# Algorithms
+
+## Vowel Consonant Checker
+
+### Algorithm
+
+1. **Start.**  
+2. **Initialize:** Declare a `char` variable `letter`.
+3. **Input:** Take a letter as input from the user and store it in the `letter` variable.
+4. **Decision Making:**  
+   - If the letter is one of `a, e, i, o, u` (either uppercase or lowercase), print:  
+     **"The character is a vowel."**  
+   - Else, print:  
+     **"The character is a consonant."**
+5. **End.**
+
+
 ## Introduction
 
 These programs are designed to help you practice essential programming skills in C++. They cover a range of basic operations, including arithmetic, comparison, character checking, and conditional statements.
